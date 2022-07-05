@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     outline: 0;
+    font-family: 'Poppins', sans-serif;
 }
 .main-banner{
     text-align: center;
@@ -44,13 +45,15 @@
     text-align:center;
     margin:auto;
     font-size: 25px;
+    margin-bottom: 60px;
 }
 .donate-amount-top-section p{
     margin: 20px 0px;
     color: gray;
+    font-size: medium;
 }
 .donate-money{
-    width: 60%;
+    width: 70%;
     margin: auto;
     margin-bottom: 60px;
 }
@@ -64,6 +67,9 @@
     color: orange;
     border-radius: 3px;
     
+}
+.donate-amount ul li:first-child{
+    margin-left:10%;
 }
 .donate-money ul li:hover{
     border: 2px solid orangered;
