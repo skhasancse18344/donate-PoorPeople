@@ -76,7 +76,7 @@
     margin-left:10%;
 }
 .donate-money ul li:hover{
-    border: 2px solid orangered;
+    background-color: rgba(215, 196, 87, 0.418);
     color: orangered;
 }
 .other-amount{
